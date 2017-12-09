@@ -9,7 +9,7 @@ include 'asynchttp_v1'
 
 definition(
 	name: "Jawbone UP (Connect)",
-	namespace: "juano2310",
+	namespace: "barabba9174",
 	author: "Juan Pablo Risso",
 	description: "Connect your Jawbone UP to SmartThings",
 	category: "SmartThings Labs",

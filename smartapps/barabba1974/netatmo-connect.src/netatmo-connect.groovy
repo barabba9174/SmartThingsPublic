@@ -16,7 +16,7 @@ private getServerUrl() 		{ return getApiServerUrl() }
 // Automatically generated. Make future change here.
 definition(
     name: "Netatmo (Connect)",
-    namespace: "dianoga",
+    namespace: "barabba9174",
     author: "Brian Steere",
     description: "Netatmo Integration",
     category: "SmartThings Labs",
