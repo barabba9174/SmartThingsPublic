@@ -1,15 +1,17 @@
 # SmartThings Public GitHub Repo
 
-An official list of SmartApps and Device Types from SmartThings.
+Netatmo:
 
-Here are some links to help you get started coding right away:
+setting
+clientId
+5884b156ac34a523748b48bc
+clientSecret
+JtjSwdFAAqNOLFGMi4KjNw2SZWvdGAcLLqyNRBcu14kCv
 
-* [GitHub-specific Documentation](http://docs.smartthings.com/en/latest/tools-and-ide/github-integration.html)
-* [Full Documentation](http://docs.smartthings.com)
-* [IDE & Simulator](http://ide.smartthings.com)
-* [Community Forums](http://community.smartthings.com)
+Jawbone:
 
-Follow us on the web:
-
-* Twitter: http://twitter.com/smartthingsdev
-* Facebook: http://facebook.com/smartthingsdevelopers
+setting
+clientId
+RUt9L5xNHXA
+clientSecret
+58963f1c111314d67700e561d9f28a99ee5804f6
